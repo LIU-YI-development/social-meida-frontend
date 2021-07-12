@@ -9,12 +9,11 @@ function Hpme() {
     <>
       <Topbar />
       <div className="homeContainer">
-        <Sidebar/>
+        <Sidebar />
         <Feed />
-        <Rightbar/>
-
+        <Rightbar />
       </div>
-  
+
     </>
   );
 }

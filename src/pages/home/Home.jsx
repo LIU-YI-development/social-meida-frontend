@@ -13,7 +13,6 @@ function Hpme() {
         <Feed />
         <Rightbar />
       </div>
-
     </>
   );
 }
